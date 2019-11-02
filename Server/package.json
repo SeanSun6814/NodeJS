@@ -22,7 +22,7 @@
     "mailgun-js": "^0.14.2",
     "mocha": "^3.0.2",
     "mongodb": "^2.2.5",
-    "mongoose": "^4.5.9",
+    "mongoose": "^5.7.5",
     "request": "^2.83.0",
     "supertest": "^2.0.0",
     "validator": "^5.6.0"
